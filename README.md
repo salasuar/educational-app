@@ -1,6 +1,8 @@
 # padho
 
 A new Flutter project.
+This is based on the theme of Social Good . Many poor students suffer in India due to lack of Money for their education .
+hence this app is targated to overcome this problem.
 
 ## Getting Started
 
